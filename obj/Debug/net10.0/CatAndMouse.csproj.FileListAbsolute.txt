@@ -1,0 +1,14 @@
+C:\Projects\CatAndMouse\obj\Debug\net10.0\CatAndMouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CatAndMouse\obj\Debug\net10.0\CatAndMouse.AssemblyInfoInputs.cache
+C:\Projects\CatAndMouse\obj\Debug\net10.0\CatAndMouse.AssemblyInfo.cs
+C:\Projects\CatAndMouse\obj\Debug\net10.0\CatAndMouse.csproj.CoreCompileInputs.cache
+C:\Projects\CatAndMouse\bin\Debug\net10.0\CatAndMouse.exe
+C:\Projects\CatAndMouse\bin\Debug\net10.0\CatAndMouse.deps.json
+C:\Projects\CatAndMouse\bin\Debug\net10.0\CatAndMouse.runtimeconfig.json
+C:\Projects\CatAndMouse\bin\Debug\net10.0\CatAndMouse.dll
+C:\Projects\CatAndMouse\bin\Debug\net10.0\CatAndMouse.pdb
+C:\Projects\CatAndMouse\obj\Debug\net10.0\CatAndMouse.dll
+C:\Projects\CatAndMouse\obj\Debug\net10.0\refint\CatAndMouse.dll
+C:\Projects\CatAndMouse\obj\Debug\net10.0\CatAndMouse.pdb
+C:\Projects\CatAndMouse\obj\Debug\net10.0\CatAndMouse.genruntimeconfig.cache
+C:\Projects\CatAndMouse\obj\Debug\net10.0\ref\CatAndMouse.dll
